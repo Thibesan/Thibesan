@@ -25,7 +25,7 @@
     
     Languages: Javascript, Java, C#, HTML, CSS
     Frameworks/Libraries: Express, React, Node, MUI, SMTP, Discordjs
-    Technologies: AWS, MongoDB, SQLite, Git, Firebase, JWT
+    Technologies: AWS, MongoDB, SQLite, Git, Firebase, JWT, Unity
     
 ---
     
