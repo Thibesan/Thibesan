@@ -32,7 +32,7 @@
 ### 🔥 My Stats
     
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Thibesan&theme=dark&background=000000&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thibesan&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thibesan&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
   </div>
 </div>
