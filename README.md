@@ -9,9 +9,9 @@
     
   - 👨‍🎓 Software Engineering Student @Western University (Class of 2024)
   
-  - 💡 Interests in Fullstack Applications and Game Development
+  - 💡 Interests in Fullstack Applications, Game Development, Computer Vision & Deep Learning
     
-  - 🔍 Looking for Summer 2023 Internships
+  - 🔍 Looking for Fall/Winter 2023 Internships
     
   - 📫 How to reach me: 
     
@@ -23,9 +23,9 @@
 
  🛠️ Languages and Tools
     
-    Languages: Javascript, Java, C#, HTML, CSS
-    Frameworks/Libraries: Express, React, Node, MUI, SMTP, Discordjs
-    Technologies: AWS, MongoDB, SQLite, Git, Firebase, JWT, Unity
+    Languages: Javascript/Typescript, Java, C++, C#, C, Python, SQL, HTML, CSS
+    Frameworks/Libraries: NextJS, React, TailwindCSS, Axios, Prisma, NextAuth/OAuth, Node, Express, MaterialUI, SMTP, Brcypt
+    Technologies: GCP, AWS, MongoDB, Vercel, SQLite, Git, Firebase, JWT, Unity, Jira/Confluence, Postman/Insomnia
     
 ---
     
