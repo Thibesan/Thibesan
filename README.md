@@ -7,7 +7,7 @@
   </h1>
   <div align="left">
     
-  - 👨‍🎓 Software Engineering Student @Western University (Class of 2024)
+  - 👨‍🎓 Software Engineering Student @Western University (Class of 2025)
   
   - 💡 Interests in Fullstack Applications, Game Development, Computer Vision & Deep Learning
     
