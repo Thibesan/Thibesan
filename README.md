@@ -23,12 +23,11 @@
 
  🛠️ Languages and Tools
     
-    Languages:              Javascript/Typescript, Python, Java, C++, C#, C, SQL, HTML, CSS
+    Languages:              JavaScript/Typescript, Python, Java, C++, C#, C, SQL, HTML, CSS
     
-    Frameworks/Libraries:   NextJS, React, TailwindCSS, TensorFlow, NumPy, Keras, PyTorch, OpenCV, Axios, Prisma,
-                            NextAuth/OAuth, Node, Express, MaterialUI, SMTP, Brcypt
+    Frameworks/Libraries:   NextJS, React, Tailwind, TensorFlow, Prisma, Node, Express, MaterialUI 
                             
-    Technologies:           GCP, AWS, MongoDB, CUDA, Vercel, SQLite, Git, Firebase, JWT, Unity, Jira/Confluence, Postman/Insomnia
+    Technologies:           MongoDB, SQLite, GCP, AWS, Vercel, Git, Firebase, JWT, Unity, Jira, Confluence, Postman
     
 ---
     
