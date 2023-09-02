@@ -11,7 +11,7 @@
   
   - 💡 Interests in Fullstack Applications, Game Development, Computer Vision & Deep Learning
     
-  - 🔍 Looking for Fall/Winter 2023 Internships
+  - 🔍 Looking for Winter 2024 Internships
     
   - 📫 How to reach me: 
     
