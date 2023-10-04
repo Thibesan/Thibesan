@@ -9,7 +9,7 @@
     
   - 👨‍🎓 Software Engineering Student @Western University (Class of 2025)
   
-  - 💡 Interests in Fullstack Applications, Game Development, Computer Vision & Deep Learning
+  - 💡 Interests in Fullstack Applications, MicroServices & Backend Development, Computer Vision & Deep Learning
     
   - 🔍 Looking for Winter 2024 Internships
     
@@ -23,11 +23,11 @@
 
  🛠️ Languages and Tools
     
-    Languages:              JavaScript/Typescript, Python, Java, C++, C#, C, SQL, HTML, CSS
+    Languages:              JavaScript/Typescript, Python, Java, C++, C#, C, SQL, HTML, CSS  
     
-    Frameworks/Libraries:   NextJS, React, Tailwind, TensorFlow, Prisma, Node, Express, MaterialUI 
+    Frameworks/Libraries:   NextJS, React, Tailwind, TensorFlow, Spring Boot, Prisma, Node, Express, MaterialUI
                             
-    Technologies:           MongoDB, SQLite, GCP, AWS, Vercel, Git, Firebase, JWT, Unity, Jira, Confluence, Postman
+    Technologies:           MongoDB, MySQL, GCP, AWS, Docker, Vercel, Git, Firebase, Unity, Jira, Confluence, Postman
     
 ---
     
