@@ -23,11 +23,11 @@
 
  🛠️ Languages and Tools
     
-    Languages:              JavaScript/Typescript, Python, Java, C++, C#, C, SQL, HTML, CSS  
+    Languages:              JavaScript/Typescript, Python, Go, Java, C++, C#, C, SQL, HTML, CSS  
     
-    Frameworks/Libraries:   NextJS, React, Tailwind, TensorFlow, Spring Boot, Prisma, Node, Express, MaterialUI
+    Frameworks/Libraries:   NextJS, React, Tailwind, GoFiber, TensorFlow, Spring Boot, Node, Express, Unity
                             
-    Technologies:           MongoDB, MySQL, GCP, AWS, Docker, Vercel, Git, Firebase, Unity, Jira, Confluence, Postman
+    Technologies:           MongoDB, MySQL, Redis, GCP, AWS, Docker, Vercel, Git, Firebase, Jira, Confluence, Postman
     
 ---
     
