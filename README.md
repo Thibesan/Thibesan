@@ -10,9 +10,7 @@
   - 👨‍🎓 Software Engineering Student @Western University (Class of 2025)
   
   - 💡 Interests in Fullstack Applications, MicroServices & Backend Development, Computer Vision & Deep Learning
-    
-  - 🔍 Looking for Winter 2024 Internships
-    
+        
   - 📫 How to reach me: 
     
     [![Linkedin Badge](https://img.shields.io/badge/-Thibesan_Raveenderan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thibesanraveenderan/)
