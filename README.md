@@ -9,7 +9,7 @@
     
   - 👨‍🎓 Software Engineering @Western University (Class of 2025)
   
-  - 💡 Interests in MicroServices & Backend Development, Fullstack Applications, Computer Vision & Deep Learning
+  - 💡 Seeking 2025 New Grad Backend and Fullstack Opportunities
         
   - 📫 How to reach me: 
     
